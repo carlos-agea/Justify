@@ -1,0 +1,11 @@
+22
+
+Here is an example of unjustified text in a column.
+
+You are to write a
+program
+that justifies this
+text to a
+specific width.
+
+Good luck and have fun with this problem.
